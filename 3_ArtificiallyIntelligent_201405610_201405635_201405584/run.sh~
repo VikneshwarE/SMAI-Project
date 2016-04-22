@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python documentclassify.py
+python documentcluster.py

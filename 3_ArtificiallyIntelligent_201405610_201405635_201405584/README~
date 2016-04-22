@@ -1,0 +1,10 @@
+--How to run the Code
+./run.sh
+
+-- Implementation
+
+fetchdata.py - Converts the documents into Vectors using bag of words approach by removing stopwords and stem them. 
+
+documentclassifier.py- Determines the Tfidf matrix and applies classification algorithms on them
+
+documentcluster.py - Determines the Tfidf matrix and applies clustering algorithm on them.
